@@ -1,0 +1,7 @@
+<resources>
+    <string name="main_activity_name">MainActivity</string>
+    <string name="button_move">Move to SubActivity</string>
+
+    <string name="sub_activity_name">SubActivity</string>
+    <string name="button_close">Close</string>
+</resources>
