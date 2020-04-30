@@ -2,6 +2,7 @@
 このリポジトリは、サークル「エゥーゴ」が作成し、技術書典7で初頒布する技術同人誌「QtでAndroidアプリを作ろう」のサンプルコードの登録場所です。
 動作確認環境や本の訂正内容などもここに記述します。
 
+
 # 動作確認環境
 本サンプルは、下記の環境で動作確認を行っています。
 
@@ -10,13 +11,27 @@
 - Qt 5.13.1
 - JDK 1.8
 
-#技術書典7のサークルページ
+# 技術書典7のサークルページ
 https://techbookfest.org/event/tbf07/circle/5637818621624320
 
-#技術同人誌について
-[BOOTH](https://eugo.booth.pm/)にて販売しています。
+# 書籍情報
 
-#連絡先
+<img src="https://s2.booth.pm/7287bb46-6dfb-43c3-94bd-827bc1141389/i/1565906/2e80fe4d-b3da-473a-9300-86b7aa4f058a_base_resized.jpg" width="320px">
+下記のサイトで取り扱っています。
+
+## BOOTH
+https://eugo.booth.pm/items/1565906
+
+## とらのあな
+https://ec.toranoana.shop/tora/ec/item/040030776548
+
+## Amazon
+https://www.amazon.co.jp/Qt%E3%81%A7Android%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-argama147-ebook/dp/B07Y8PQVC6/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Qt%E3%81%A7Android%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86&qid=1588218677&sr=8-1
+
+## BOOK WALKER
+https://bookwalker.jp/de83161327-8a32-4a41-9709-5cb9ce1438a8/
+
+# 連絡先
 サンプル等について何か問題等ありましたら、[Twitterアカウント](https://twitter.com/argama147)にご連絡ください。（返信ができない場合がありますがご了承ください）
 
 〇免責事項 本サンプルプログラムにおけるスクリプト・プログラム・紹介する手法など全ての無償情報（以下、「無償プログラム等」）については、下記の通り一切の保証が無いものとしてご利用下さい。
