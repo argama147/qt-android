@@ -1,5 +1,5 @@
 # このリポジトリについて
-このリポジトリは、サークル「エゥーゴ」が作成し、技術書典7で初頒布する技術同人誌「QtでAndroidアプリを作ろう」のサンプルコードの登録場所です。
+このリポジトリは、サークル「エゥーゴ」が作成し、技術書典7で初頒布する技術同人誌「QtでAndroidアプリを作ろう」のサンプルコードの登録場所及びサポートページです。
 動作確認環境や本の訂正内容などもここに記述します。
 
 
@@ -11,13 +11,13 @@
 - Qt 5.13.1
 - JDK 1.8
 
-# 技術書典7のサークルページ
-https://techbookfest.org/event/tbf07/circle/5637818621624320
-
 # 書籍情報
 
 <img src="https://s2.booth.pm/7287bb46-6dfb-43c3-94bd-827bc1141389/i/1565906/2e80fe4d-b3da-473a-9300-86b7aa4f058a_base_resized.jpg" width="320px">
 下記のサイトで取り扱っています。
+
+## 技術書典9 オンラインマーケット
+https://techbookfest.org/product/6496391299858432?productVariantID=5787566540324864
 
 ## BOOTH
 https://eugo.booth.pm/items/1565906
