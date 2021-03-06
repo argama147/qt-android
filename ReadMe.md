@@ -11,6 +11,10 @@
 - Qt 5.13.1
 - JDK 1.8
 
+# サポートページ
+
+[サポートページ](https://github.com/argama147/qt-android/wiki/SupportPage)
+
 # 書籍情報
 
 <img src="https://s2.booth.pm/7287bb46-6dfb-43c3-94bd-827bc1141389/i/1565906/2e80fe4d-b3da-473a-9300-86b7aa4f058a_base_resized.jpg" width="320px">
